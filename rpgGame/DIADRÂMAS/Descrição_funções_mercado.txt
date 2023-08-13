@@ -1,0 +1,103 @@
+Opções de Mercado:
+
+Comerciante de Armaduras
+
+O comerciante de armaduras trabalha com os seguintes
+itens:
+
+Capacete de Ferro id:01
+Capacete de Prata id:02
+Capacete de Bronze id:03
+Capacete de Ouro fundido id:04
+
+Peitoral de Ferro id:05
+Peitoral de Prata id:06
+Peitoral de Bronze id:07
+Peitoral de Ouro fundido id:08
+
+Calças de Ferro id:09
+Calças de Prata id:10
+Calças de Bronze id:11
+Calças de Ouro fundido id:12
+
+Botas de Ferro id:13
+Botas de Prata id:14
+Botas de Bronze id:15
+Botas de Ouro fundido id:16
+
+O comerciante de Armas trabalha com os seguintes
+itens:
+
+Espada de Ferro id:17
+Espada de Prata id:18
+Espada de Bronze id:19
+Espada de Ouro fundido id:20
+
+Arco id:21
+
+Besta id:22
+
+Lança id:23
+
+O comerciante de Suprimentos trabalha com os seguintes
+itens:
+
+Peixe id:24
+Pão id:25
+Carne bovina id:26
+Verduras id:27
+Vinho id:28
+Frutas id:29
+
+O comerciante de Matéria Prima trabalha com os seguintes
+itens:
+
+Madeira id:30
+Pedra id:31
+Minério de Ouro id:32
+Minério de Prata id:33
+Minério de Bronze id:34
+Minério de Ferro id:35
+
+
+Funções:
+
+1 - Comprar
+
+A função deverá receber o código do produto, 
+preço a pagar, vendedor e quantidade.
+
+2 - Vender
+
+A função deverá receber o código do produto, 
+preço a pagar, comprador e quantidade.
+
+3 - Mercado
+
+Chama novamente o menu do mercado.
+
+
+Mercadores:
+
+Os mercadores ficarão recebendo cargas das 
+caravanas a cada 15 dias, eles atualização
+seus preços a cada 5 dias.
+
+Mercadores tem estoque e também tem uma quantidade
+de moedas para compra de produtos.
+
+Caravanas:
+
+As caravanas irão ficar calculando novas rotas,
+sempre comprarão o produto na cidade mais barata
+e levarão para cidade que paga mais caro.
+
+As caravanas também terão um estoque e dinheiro
+para compra de produtos.
+
+
+
+
+
+
+

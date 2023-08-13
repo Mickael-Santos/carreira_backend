@@ -1,0 +1,15 @@
+C:\dev\TextEditor\bin\Debug\net452\TextEditor.exe.config
+C:\dev\TextEditor\bin\Debug\net452\TextEditor.exe
+C:\dev\TextEditor\bin\Debug\net452\TextEditor.pdb
+C:\dev\TextEditor\bin\Debug\net452\System.Drawing-dotnet-core.dll
+C:\dev\TextEditor\bin\Debug\net452\System.Drawing.Primitives.dll
+C:\dev\TextEditor\bin\Debug\net452\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dev\TextEditor\obj\Debug\net452\TextEditor.csproj.AssemblyReference.cache
+C:\dev\TextEditor\obj\Debug\net452\TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\dev\TextEditor\obj\Debug\net452\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TextEditor\obj\Debug\net452\TextEditor.AssemblyInfoInputs.cache
+C:\dev\TextEditor\obj\Debug\net452\TextEditor.AssemblyInfo.cs
+C:\dev\TextEditor\obj\Debug\net452\TextEditor.csproj.CoreCompileInputs.cache
+C:\dev\TextEditor\obj\Debug\net452\TextEditor.csproj.CopyComplete
+C:\dev\TextEditor\obj\Debug\net452\TextEditor.exe
+C:\dev\TextEditor\obj\Debug\net452\TextEditor.pdb

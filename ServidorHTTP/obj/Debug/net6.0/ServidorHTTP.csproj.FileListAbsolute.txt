@@ -1,0 +1,15 @@
+C:\dev\ServidorHTTP\bin\Debug\net6.0\ServidorHTTP.exe
+C:\dev\ServidorHTTP\bin\Debug\net6.0\ServidorHTTP.deps.json
+C:\dev\ServidorHTTP\bin\Debug\net6.0\ServidorHTTP.runtimeconfig.json
+C:\dev\ServidorHTTP\bin\Debug\net6.0\ServidorHTTP.dll
+C:\dev\ServidorHTTP\bin\Debug\net6.0\ServidorHTTP.pdb
+C:\dev\ServidorHTTP\obj\Debug\net6.0\ServidorHTTP.csproj.AssemblyReference.cache
+C:\dev\ServidorHTTP\obj\Debug\net6.0\ServidorHTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ServidorHTTP\obj\Debug\net6.0\ServidorHTTP.AssemblyInfoInputs.cache
+C:\dev\ServidorHTTP\obj\Debug\net6.0\ServidorHTTP.AssemblyInfo.cs
+C:\dev\ServidorHTTP\obj\Debug\net6.0\ServidorHTTP.csproj.CoreCompileInputs.cache
+C:\dev\ServidorHTTP\obj\Debug\net6.0\ServidorHTTP.dll
+C:\dev\ServidorHTTP\obj\Debug\net6.0\refint\ServidorHTTP.dll
+C:\dev\ServidorHTTP\obj\Debug\net6.0\ServidorHTTP.pdb
+C:\dev\ServidorHTTP\obj\Debug\net6.0\ServidorHTTP.genruntimeconfig.cache
+C:\dev\ServidorHTTP\obj\Debug\net6.0\ref\ServidorHTTP.dll

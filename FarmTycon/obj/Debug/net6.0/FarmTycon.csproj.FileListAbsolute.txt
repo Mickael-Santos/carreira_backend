@@ -1,0 +1,15 @@
+C:\dev\FarmTycon\bin\Debug\net6.0\FarmTycon.exe
+C:\dev\FarmTycon\bin\Debug\net6.0\FarmTycon.deps.json
+C:\dev\FarmTycon\bin\Debug\net6.0\FarmTycon.runtimeconfig.json
+C:\dev\FarmTycon\bin\Debug\net6.0\FarmTycon.dll
+C:\dev\FarmTycon\bin\Debug\net6.0\FarmTycon.pdb
+C:\dev\FarmTycon\obj\Debug\net6.0\FarmTycon.csproj.AssemblyReference.cache
+C:\dev\FarmTycon\obj\Debug\net6.0\FarmTycon.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FarmTycon\obj\Debug\net6.0\FarmTycon.AssemblyInfoInputs.cache
+C:\dev\FarmTycon\obj\Debug\net6.0\FarmTycon.AssemblyInfo.cs
+C:\dev\FarmTycon\obj\Debug\net6.0\FarmTycon.csproj.CoreCompileInputs.cache
+C:\dev\FarmTycon\obj\Debug\net6.0\FarmTycon.dll
+C:\dev\FarmTycon\obj\Debug\net6.0\refint\FarmTycon.dll
+C:\dev\FarmTycon\obj\Debug\net6.0\FarmTycon.pdb
+C:\dev\FarmTycon\obj\Debug\net6.0\FarmTycon.genruntimeconfig.cache
+C:\dev\FarmTycon\obj\Debug\net6.0\ref\FarmTycon.dll

@@ -1,0 +1,35 @@
+Opções de Cidade:
+
+ 1 - Pousar
+A função deverá permitir que o turno(dia) seja
+passado, assim também reduzindo o sono do jogador.
+
+2 - Explorar
+
+A função deverá percorrer um array, buscando entre 
+ínidices com itens e vazios, escolhendo aleatoriamente
+um índice, virá um item aleatório ou nada, também deverá
+ter um limite de exploração por dia. 
+
+3 - Roubar
+
+A Função deverá dar a opção do jogador escolher uma localidade
+para fazer uma tentativa de roubo, o jogo poderá trazer uma mini
+tela com inimigos para atrapalhar o roubo.
+
+4 - Mercado
+
+A função deverá trazer um menu de vendedores para o jogador escolher,
+cada vendedor terá um  estoque própio.
+
+Deverá haver uma função para fazer uma operação,
+de compra e venda.
+
+5 - Sair
+
+Traz o menu do bioma de volta.
+
+
+
+
+

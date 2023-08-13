@@ -1,0 +1,46 @@
+Opções de bioma:
+ 1 - Explorar
+Essa função deverá permitir o jogador explorar
+automaticamente, um suposto mapa de bioma, a função
+deverá procurar entre um tipo de lista com possíveis
+itens acháveis naquela região, caso encontrar alguma coisa
+o item encontrado deverá ser guardado automaticamente
+no inventário do jogador.
+
+Ao executar essa função, outra função deve ser executada
+a de caçar, simulando que o jogador poderia encontrar um animal 
+tranquilo ou perigoso durante sua exploração.
+
+2 - Cortar Madeira
+
+Essa função deverá permitir o jogador coletar madeira
+As madeiras encontradas serão automaticamente guardadas 
+no inventário.
+
+Ao executar essa função, outra função deve ser executada
+a de caçar, simulando que o jogador poderia encontrar um animal 
+tranquilo ou perigoso durante sua exploração.
+
+3 - Caçar
+
+Essa função deverá permitir caçar monstros e animais
+Deverá percorrer algum tipo de lista de animais e monstros
+Onde aleatoriamente deve escolher um índice da lista e chamar para um combate
+Ao escolher o objeto criatura é instânciado.
+
+4 - Minerar
+
+Deverá permitir o jogador coletar pedras e outros minérios e pedras preciosas.
+Percorrerá uma lista retornando minérios ao final da função.
+
+5 - Viajar
+
+Irá abrir um menu de cidades, ao jogador escolher uma cidade ele deverá transferir o jogador para aquela cidade
+
+6 - Acampar
+
+Permite o jogador dormir fora das cidades
+
+6 -  Menu
+
+Menu principal
